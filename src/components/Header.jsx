@@ -1,4 +1,4 @@
-import Button from "./ Button";
+import Button from "./Button";
 import Logo from "./Logo";
 import NavBar from "./NavBar";
 import WeatherIcon from "./WeatherIcon";
